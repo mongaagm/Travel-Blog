@@ -1,4 +1,9 @@
 This commit is from my local machine for task 1.2
 hi
 this is just 2.0
+<<<<<<< HEAD
 this is for resolving commit
+=======
+this is my commit
+>>>>>>> 78c9b74f7021c611f9d1cbc9786c088e48629f55
+this is for 2nd resolving commit
