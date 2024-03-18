@@ -1,5 +1,6 @@
 This commit is from my local machine for task 1.2
 hi
+hello
 this is just 2.0
 <<<<<<< HEAD
 this is for resolving commit
